@@ -3,13 +3,13 @@ import design2 from "../assets/gallery/design2.png";
 import design3 from "../assets/gallery/design3.jpeg";
 import design4 from "../assets/gallery/design4.png";
 import design5 from "../assets/gallery/design5.png";
-import design6 from "../assets/gallery/design6.png";;
+import design6 from "../assets/gallery/design6.jpeg";;
 
 const galleryItems = [
    {
-      image: design1,
-      title: "Food Banner",
-      category: "Advertisement"
+      image: design5,
+      title: "YouTube Gaming Thumbnail",
+      category: "Thumbnail"
       
     },
     {
@@ -19,8 +19,8 @@ const galleryItems = [
     },
     {
       image: design3,
-      title: "Restaurant Promotion",
-      category: "Advertisement"
+      title: "Restaurant WebPage",
+      category: "Web Page"
     },
     {
       image: design4,
@@ -28,14 +28,14 @@ const galleryItems = [
       category: "Advertisement"
     },
     {
-      image: design5,
-      title: "Social Media Post",
-      category: "Instagram"
+      image: design1,
+      title: "Food Banner",
+      category: "Advertisement"
     },
     {
       image: design6,
-      title: "Quotes",
-      category: "Social Media"
+      title: "Marketing Creative",
+      category: "Advertisement"
     }
 ];
 
