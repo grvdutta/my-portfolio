@@ -1,6 +1,6 @@
 import design1 from "../assets/gallery/design1.png";
 import design2 from "../assets/gallery/design2.png";
-import design3 from "../assets/gallery/design3.jpeg";
+import design3 from "../assets/gallery/design3.png";
 import design4 from "../assets/gallery/design4.png";
 import design5 from "../assets/gallery/design5.png";
 import design6 from "../assets/gallery/design6.jpeg";;
@@ -19,8 +19,8 @@ const galleryItems = [
     },
     {
       image: design3,
-      title: "Restaurant WebPage",
-      category: "Web Page"
+      title: "YouTube Thumbnail",
+      category: "Thumbnail"
     },
     {
       image: design4,
