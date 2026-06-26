@@ -9,10 +9,10 @@ function Projects() {
             title: "Cafe Landing Page",
             description:
                 "A modern and responsive landing page designed for a café, featuring an engaging hero section, menu showcase, customer testimonials, and contact information.",
-            tech: "React • Tailwind CSS • JavaScript",
+            tech: "HTML • CSS • JavaScript",
             image: cafe,
-            demo: "#",
-            github: "#",
+            demo: "https://click2dine.netlify.app/",
+            github: "https://github.com/grvdutta/OnePageRestaurantMVP",
         },
 
         {
@@ -21,28 +21,28 @@ function Projects() {
                 "A responsive fitness website showcasing gym services, membership plans, trainer profiles, and contact information with a modern and user-friendly interface.",
             tech: "React • Tailwind CSS • JavaScript",
             image: gym,
-            demo: "#",
-            github: "#",
+            demo: "https://gym-mvp-five.vercel.app/",
+            github: "https://github.com/grvdutta/gym-mvp",
         },
 
         {
             title: "BBQ Restaurant Landing Page",
             description:
                 "A modern, responsive landing page for a BBQ restaurant featuring an engaging hero section, menu highlights, customer testimonials, and reservation call-to-actions.",
-            tech: "React • Tailwind CSS • JavaScript",
+            tech: "HTML • CSS • JavaScript",
             image: restaurantLanding,
-            demo: "#",
-            github: "#",
+            demo: "https://golden-grill-system.netlify.app/",
+            github: "https://github.com/grvdutta/golden-grill-system",
         },
 
         {
             title: "BBQ Restaurant Admin Dashboard",
             description:
                 "An intuitive admin dashboard for managing restaurant content, menu items, reservations, and other operational data through a clean and user-friendly interface.",
-            tech: "React • Tailwind CSS • JavaScript",
+            tech: "HTML • CSS • JavaScript",
             image: restaurantDashboard,
-            demo: "#",
-            github: "#",
+            demo: "https://golden-grill-system.netlify.app/admin/dashboard.html",
+            github: "https://github.com/grvdutta/golden-grill-system",
         },
     ];
 
