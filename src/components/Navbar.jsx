@@ -36,6 +36,12 @@ function Navbar() {
           </li>
 
           <li>
+            <a href="#projects">
+              Projects
+            </a>
+          </li>
+
+          <li>
             <a href="#contact" className="hover:text-cyan-500 duration-300">
               Contact
             </a>
