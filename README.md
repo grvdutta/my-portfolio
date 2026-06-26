@@ -1,70 +1,192 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GD Portfolio Website
 
-## Available Scripts
+A modern, responsive, and animated personal portfolio built with **React** to showcase my development projects, graphic design work, certifications, and technical skills. Designed with a premium black, white, and neon blue theme for a clean and professional experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌐 Live Website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Portfolio:** `https://my-portfolio-one-zeta-pi3vqmvzqa.vercel.app/`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📂 GitHub Repository
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`https://github.com/grvdutta/my-portfolio`
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Modern responsive UI
+- Animated Hero section
+- Smooth page animations using Framer Motion
+- Typewriter text animation
+- Skills showcase
+- Services section
+- Featured Projects
+- Graphic Design Gallery
+- Certifications section
+- Contact Form (EmailJS)
+- Social Media Integration
+- Floating Telegram Contact Button
+- Mobile Friendly Design
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠 Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React
+- JavaScript (ES6+)
+- CSS3
+- Framer Motion
+- React Icons
+- React Type Animation
+- EmailJS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📁 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```text
+src/
+│
+├── assets/
+│   ├── gallery/
+│   ├── projects/
+│   └── profile.jpg
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── AnimatedProfile.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Services.jsx
+│   ├── Projects.jsx
+│   ├── Gallery.jsx
+│   ├── Certifications.jsx
+│   ├── Contact.jsx
+│   ├── Footer.jsx
+│   └── FloatingTelegram.jsx
+│
+├── App.js
+├── index.js
+└── index.css
+```
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone the repository
 
-### Code Splitting
+```bash
+git clone <your-github-repository-link>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Go to the project folder
 
-### Analyzing the Bundle Size
+```bash
+cd my-portfolio
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Install dependencies
 
-### Making a Progressive Web App
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Run the development server
 
-### Advanced Configuration
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Create a production build
 
-### Deployment
+```bash
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 💼 Featured Projects
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### ☕ Cafe Landing Page
+
+- Responsive landing page for a modern café.
+- **Tech Stack:** HTML • JavaScript • CSS
+- **Live Demo:** `https://click2dine.netlify.app/`
+- **GitHub:** `https://github.com/grvdutta/OnePageRestaurantMVP`
+
+---
+
+### 🍖 BBQ Restaurant Website
+
+- Modern restaurant website with responsive design.
+- **Tech Stack:** HTML • JavaScript • CSS
+- **Live Demo:** `https://golden-grill-system.netlify.app`
+- **GitHub:** `https://github.com/grvdutta/golden-grill-system`
+
+---
+
+### 📊 BBQ Admin Dashboard
+
+- Admin dashboard for managing restaurant content and operations.
+- **Tech Stack:** HTML • JavaScript • CSS
+- **Live Demo:** `https://golden-grill-system.netlify.app/admin/dashboard.html`
+- **GitHub:** `https://github.com/grvdutta/golden-grill-system`
+
+---
+
+### 🏋️ Gym Website
+
+- Premium fitness website with modern UI and responsive layout.
+- **Tech Stack:** React • JavaScript • CSS
+- **Live Demo:** `https://gym-mvp-five.vercel.app/`
+- **GitHub:** `https://github.com/grvdutta/gym-mvp`
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+_Add Screenshot Here_
+
+### Projects Section
+
+_Add Screenshot Here_
+
+### Gallery Section
+
+_Add Screenshot Here_
+
+### Contact Section
+
+_Add Screenshot Here_
+
+---
+
+## 📬 Contact
+
+**Email:** grvduttaiem@email.com
+
+**LinkedIn:** https://linkedin.com/in/gaurav-dutta-69218931a
+
+**GitHub:** https://github.com/grvdutta
+
+**Instagram:** https://instagram.com/xe.grvdutta
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+### ⭐ If you found this project useful, consider giving it a star!
+````
