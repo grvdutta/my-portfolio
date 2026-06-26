@@ -49,7 +49,7 @@ function Hero() {
           <div className="flex flex-col sm:flex-row gap-4 mt-8">
 
             <a
-              href="#services"
+              href="#projects"
               className="px-8 py-3 bg-cyan-600 rounded-full hover:bg-cyan-500 duration-300 shadow-[0_0_25px_rgba(34,211,238,0.8)]"
             >
               View My Work

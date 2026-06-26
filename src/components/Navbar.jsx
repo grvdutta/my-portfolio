@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaTelegramPlane } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
 function Navbar() {
@@ -50,7 +50,7 @@ function Navbar() {
 
         <div className="flex gap-4 text-lg">
           <a
-            href="https://github.com/"
+            href="https://github.com/grvdutta"
             target="_blank"
             rel="noreferrer"
             className="hover:text-cyan-500 duration-300"
@@ -59,7 +59,7 @@ function Navbar() {
           </a>
 
           <a
-            href="https://instagram.com/"
+            href="https://www.instagram.com/xe.grvdutta/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-cyan-500 duration-300"
@@ -68,16 +68,16 @@ function Navbar() {
           </a>
 
           <a
-            href="https://t.me/"
+            href="https://www.linkedin.com/in/gaurav-dutta-69218931a/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-cyan-500 duration-300"
           >
-            <FaTelegramPlane />
+            <FaLinkedin />
           </a>
 
           <a
-            href="mailto:yourmail@gmail.com"
+            href="mailto:grvduttaiem@gmail.com"
             className="hover:text-cyan-500 duration-300"
           >
             <MdEmail />
